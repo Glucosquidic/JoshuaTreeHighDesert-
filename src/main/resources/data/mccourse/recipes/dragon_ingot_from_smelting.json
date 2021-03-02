@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "mccourse:dragonite"
+  },
+  "result": "mccourse:dragon_ingot",
+  "experience": 5.0,
+  "cookingtime": 450
+
+}

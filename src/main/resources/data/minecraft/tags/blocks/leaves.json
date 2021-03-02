@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "mccourse:redwood_leaves",
+    "mccourse:baobab_leaves",
+    "mccourse:joshuatree_leaves"
+  ]
+}

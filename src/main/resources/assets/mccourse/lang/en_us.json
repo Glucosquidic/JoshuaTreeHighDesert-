@@ -1,0 +1,43 @@
+{
+  "item.mccourse.copper_ingot": "Copper Ingot",
+  "block.mccourse.zion_block": "Block of Zion",
+  "block.mccourse.zion_ore": "Zion Ore",
+
+  "block.mccourse.jenna_block": "Block of Jenna",
+
+  "item.mccourse.dragon_ingot": "Dragon Ingot",
+  "item.mccourse.dragon_sword": "Dragon Scimitar",
+  "item.mccourse.dragon_mace": "Dragon Mace",
+
+  "itemGroup.courseTab" : "Course Tab",
+
+  "item.mccourse.emerald_ingot": "Emerald Ingot",
+  "item.mccourse.emerald_sword": "Emerald Sword",
+  "item.mccourse.emerald_helmet": "Emerald Helmet",
+  "item.mccourse.emerald_chestplate": "Emerald Chestplate",
+  "item.mccourse.emerald_leggings": "Emerald Leggings",
+  "item.mccourse.emerald_boots": "Emerald Boots",
+
+  "block.mccourse.dragonite": "Dragonite",
+  "item.mccourse.dragon_orb": "Dragon Orb",
+
+  "item.mccourse.dragon_destroyer_helmet":"Dragon Helmet",
+  "item.mccourse.dragon_destroyer_chestplate":"Dragon Chestplate",
+  "item.mccourse.dragon_destroyer_leggings":"Dragon Leggings",
+  "item.mccourse.dragon_destroyer_boots":"Dragon Boots",
+
+  "block.mccourse.redwood_log": "Redwood Logs",
+  "block.mccourse.redwood_leaves": "Redwood Leaves",
+  "block.mccourse.redwood_planks": "Redwood Planks",
+  "block.mccourse.redwood_sapling": "Redwood Sapling",
+
+  "block.mccourse.baobab_log": "Baobab Logs",
+  "block.mccourse.baobab_leaves": "Baobab Leaves",
+  "block.mccourse.baobab_planks": "Baobab Planks",
+  "block.mccourse.baobab_sapling": "Baobab Sapling",
+
+  "block.mccourse.joshuatree_log": "Joshua Tree Logs",
+  "block.mccourse.joshuatree_leaves": "Joshua Tree Leaves",
+  "block.mccourse.joshuatree_planks":"Joshua Tree Planks",
+  "block.mccourse.joshuatree_sapling": "Joshua Tree Sapling"
+}

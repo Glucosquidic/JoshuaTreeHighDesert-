@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cross",
+  "textures": {
+    "cross": "mccourse:block/joshuatree_sapling"
+  }
+}

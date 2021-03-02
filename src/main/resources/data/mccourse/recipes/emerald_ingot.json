@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    " x ",
+    "xcx",
+    " x "
+  ],
+  "key":
+  {
+    "x":
+    {
+      "item": "minecraft:emerald"
+    },
+    "c":
+    {
+      "item": "minecraft:iron_ingot"}
+
+    },
+    "result":
+  {
+    "item": "mccourse:emerald_ingot",
+    "count": 1
+  }
+}

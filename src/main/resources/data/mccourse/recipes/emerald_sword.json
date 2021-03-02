@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    " c ",
+    " c ",
+    " / "
+  ],
+  "key":
+  {
+
+    "/":
+    {
+      "item": "minecraft:stick"
+    },
+    "c":
+    {
+      "item": "mccourse:emerald_ingot"
+    }
+    },
+    "result": {
+      "item": "mccourse:emerald_sword"
+    }
+  }

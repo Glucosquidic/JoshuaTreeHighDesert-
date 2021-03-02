@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "ingredient": {
+    "item": "minecraft:dragon_head"
+  },
+  "result": "mccourse:dragon_orb",
+  "count": 64
+
+}

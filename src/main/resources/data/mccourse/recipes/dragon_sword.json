@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "xcc",
+    "x/c",
+    "x/ "
+  ],
+  "key":
+  {
+    "/":
+    {
+      "item": "minecraft:stick"
+    },
+    "c":
+    {
+      "item": "mccourse:dragon_ingot"
+    },
+    "x":
+    {
+      "item": "minecraft:diamond"
+    }
+  },
+  "result":
+  {
+    "item": "mccourse:dragon_sword"
+  }
+}
